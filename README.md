@@ -1,6 +1,6 @@
-# Farmlink Mobile App
+# Farmlink Mobile Marketplace App
 
-A mobile marketplace application that connects farmers directly with consumers.
+This application was developed as part of a university project to improve direct access between farmers and consumers through a mobile platform.
 
 ## Features
 - Product listing and browsing

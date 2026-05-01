@@ -15,3 +15,19 @@ This application was developed as part of a university project to improve direct
 
 ## Status
 Completed (Student Project)
+## Screenshots
+
+### Home Screen
+![Home](home.png)
+
+### Login Page
+![Login](login.png)
+
+### Register Page
+![Register](register.png)
+
+### Marketplace
+![Marketplace](marketplace.png)
+
+### Profile & Product Management
+![Profile](profile.png)

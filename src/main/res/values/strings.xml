@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FarmLink_Project</string>
+    <string name="send">Send Order to Another App</string>
+    <string name="cancel">Cancel</string>
+</resources>

@@ -30,4 +30,4 @@ Completed (Student Project)
 ![Marketplace](marketplace.png)
 
 ### Profile & Product Management
-![Profile](profile.png)
+![Profile (Seller)](profile(seller).png)
